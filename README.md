@@ -14,7 +14,7 @@ To use this theme, you need the **Stylus** browser extension. Stylus allows you 
 
 1.  **Install Stylus Extension:**
     *   For **Firefox**: Get it from the [Mozilla Add-ons store](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
-    *   For **Chrome/Edge/Brave**: Get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckokgpflnomrldpa).
+    *   For **Chrome/Edge/Brave**: Get it from the [Chrome Web Store](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne).
 
 2.  **Open Stylus Editor for T3.Chat:**
     *   Go to [T3.Chat](https://t3.chat/).
