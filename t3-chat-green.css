@@ -1,0 +1,35 @@
+/* Button "Send Message" */
+button.inline-flex.text-pink-50 {
+  background-color: #4ca034 !important; /* Green Daylight */
+  color: white !important; /* White Text on Button */
+  border-color: #4ca034 !important; /* Border */
+}
+
+button.inline-flex.text-pink-50:hover {
+  background-color: #3b8d2b !important; /* A lil darker, but in the same color*/
+  border-color: #3b8d2b !important;
+}
+
+/* Button "New Chat" */
+a[href="/"].inline-flex.items-center.justify-center.gap-2.whitespace-nowrap {
+  background-color: #4ca034 !important; /* Green Daylight */
+  color: white !important;
+  border-color: #4ca034 !important;
+}
+
+a[href="/"].inline-flex.items-center.justify-center.gap-2.whitespace-nowrap:hover {
+  background-color: #3b8d2b !important;
+  border-color: #3b8d2b !important;
+}
+
+/* Search Button "30% opacity" */
+button.inline-flex.bg-pink-500\/15 {
+  background-color: rgba(67, 147, 41, 0.3) !important; /* Dark 30% Opacity */
+  color: white !important;
+  border-color: rgba(67, 147, 41, 0.3) !important;
+}
+
+button.inline-flex.bg-pink-500\/15:hover {
+  background-color: rgba(67, 147, 41, 0.5) !important; /* Darker */
+  border-color: rgba(67, 147, 41, 0.5) !important;
+}
