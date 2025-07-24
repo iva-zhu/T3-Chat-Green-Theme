@@ -5,8 +5,9 @@ This is a custom CSS theme that changes the color of "Send Message", "New Chat",
 It's designed to be applied using the [Stylus browser extension](https://github.com/openstyles/stylus).
 
 ## Screenshots
-<img width="750" height="566" alt="Screenshot 2025-07-25 at 2 40 11 AM" src="https://github.com/user-attachments/assets/f389b9b0-5708-405d-837a-b0e8af1cdd1e" />
-<img width="750" height="566" alt="Screenshot 2025-07-25 at 2 40 20 AM" src="https://github.com/user-attachments/assets/74054b9e-2355-4120-bc40-6e2fd56f0efe" />
+<img width="686" height="502" alt="Screenshot 2025-07-25 at 3 11 43 AM" src="https://github.com/user-attachments/assets/9b87a9f7-2788-4fae-8a04-01dbcddd164f" />
+<img width="686" height="502" alt="Screenshot 2025-07-25 at 3 11 54 AM" src="https://github.com/user-attachments/assets/801cd3b0-acc0-47a4-bd43-86b5dcca1a18" />
+
 
 ## How to Install
 
